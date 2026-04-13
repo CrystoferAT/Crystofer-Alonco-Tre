@@ -10,5 +10,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Estudante de ADS na Universidade Positivo com foco em Full Stack. Unindo a resiliência e gestão de tempo desenvolvidas em logística e vendas com o domínio de Java, Kotlin, PHP, JavaScript e C#. Atualmente focado em arquiteturas escaláveis e desenvolvimento mobile. Busco aplicar minha visão analítica em soluções tecnológicas reais.
+
+
+![As mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CrystoferAT&layout=compact&theme=vision-friendly-dark&hide_border=true)
