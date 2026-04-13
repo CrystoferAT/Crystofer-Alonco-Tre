@@ -1,4 +1,4 @@
-<img src="https://github.com/CrystoferAT.png" width="200" align="left" alt="Foto de Crystofer">
+//<img src="https://github.com/CrystoferAT.png" width="200" align="left" alt="Foto de Crystofer">
 
 ### Olá, eu sou o Crystofer! 👋
 
