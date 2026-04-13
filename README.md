@@ -16,4 +16,4 @@
 Estudante de ADS na Universidade Positivo com foco em Full Stack. Unindo a resiliência e gestão de tempo desenvolvidas em logística e vendas com o domínio de Java, Kotlin, PHP, JavaScript e C#. Atualmente focado em arquiteturas escaláveis e desenvolvimento mobile. Busco aplicar minha visão analítica em soluções tecnológicas reais.
 
 
-![Linguagens do Crystofer](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CrystoferAT&layout=compact&theme=vision-friendly-dark&hide_border=true)
+!(https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CrystoferAT&layout=compact&theme=vision-friendly-dark&hide_border=true)
