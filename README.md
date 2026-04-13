@@ -1,5 +1,3 @@
-/*<img src="https://github.com/CrystoferAT.png" width="200" align="left" alt="Foto de Crystofer">*/
-
 ### Olá, eu sou o Crystofer! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystoferaloncotre)
